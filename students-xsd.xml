@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<students-xsd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="student.xsd">
+<students-xsd>
+    <student>
+        <firstname>Jane</firstname>
+        <lastname>Doe</lastname>
+        <roll_no>TCOA01</roll_no>
+        <division>A</division>
+    </student>
+    <student>
+        <firstname>William</firstname>
+        <lastname>Defoe</lastname>
+        <roll_no>TCOA02</roll_no>
+        <division>A</division>
+    </student>
+    <student>
+        <firstname>Tom</firstname>
+        <lastname>Roland</lastname>
+        <roll_no>TCOA03</roll_no>
+        <division>A</division>
+    </student>
+    <student>
+        <firstname>Will</firstname>
+        <lastname>Gavni</lastname>
+        <roll_no>TCOA04</roll_no>
+        <division>A</division>
+    </student>
+</students-xsd>
+</students-xsd>

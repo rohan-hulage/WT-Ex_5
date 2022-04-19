@@ -1,0 +1,7 @@
+<!ELEMENT students (#PCDATA|employee)*>
+<!ELEMENT students
+(firstname,lastname,roll_no,division)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT roll_no (#PCDATA)>
+<!ELEMENT division (#PCDATA)>
